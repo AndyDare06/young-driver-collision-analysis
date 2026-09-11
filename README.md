@@ -118,3 +118,26 @@ The analysis does not claim that any selected characteristic causes a collision 
 The analysis was developed using Python, pandas, NumPy, SciPy, statsmodels, scikit-learn and Matplotlib.
 
 Tableau was used separately for the project's dashboard and communication of results.
+## Tableau dashboard
+
+The repository includes a Tableau dashboard summarising the collision-level findings from the project.
+
+- **Dashboard:** `tableau/young-driver-collision-dashboard.twbx`
+- **Collision-level Tableau data:** `tableau/tableau_data.csv`
+- **Combined-profile Tableau data:** `tableau/tableau_profiles.csv`
+
+The dashboard covers 35,799 collisions involving qualifying 17–19-year-old car drivers in England and Wales from 2018–2024. Higher severity combines fatal and serious collisions; lower severity represents slight collisions.
+
+The dashboard presents observed higher-severity proportions by:
+
+- young-passenger presence
+- lighting condition
+- day type
+- driver sex
+- year
+
+It also presents descriptive comparisons of the highest- and lowest-rate combinations of the selected characteristics.
+
+The results represent observed associations rather than causal effects. Vehicle age is analysed separately at driver–vehicle level in the EMA because it cannot always be uniquely assigned to a collision.
+
+The Tableau dashboard is provided as a supplementary visualisation of the analysis; the Jupyter Notebook remains the main computational record of the project.
