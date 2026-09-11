@@ -1,0 +1,31 @@
+Driver Sex,Lighting,Day Type,Vehicle Age,Young Passenger,Collisions,Higher Severity,Higher Severity Rate
+Male,Night,Weekend,13+,Young passenger present,461,171,37.093275488069416
+Male,Night,Weekend,Under 13,Young passenger present,664,228,34.33734939759036
+Male,Night,Weekday,Under 13,Young passenger present,1149,374,32.550043516100956
+Male,Night,Weekday,13+,Young passenger present,802,260,32.418952618453865
+Male,Day,Weekday,13+,Young passenger present,604,171,28.311258278145697
+Male,Day,Weekday,Under 13,Young passenger present,719,202,28.094575799721838
+Female,Night,Weekend,Under 13,Young passenger present,214,60,28.037383177570092
+Male,Day,Weekend,13+,Young passenger present,264,73,27.65151515151515
+Male,Night,Weekend,13+,No young passenger,766,199,25.979112271540473
+Female,Night,Weekday,Under 13,Young passenger present,447,115,25.727069351230426
+Male,Day,Weekend,Under 13,Young passenger present,392,99,25.255102040816325
+Female,Night,Weekday,13+,Young passenger present,212,52,24.528301886792452
+Male,Night,Weekend,Under 13,No young passenger,1315,313,23.802281368821294
+Male,Night,Weekday,13+,No young passenger,1555,352,22.636655948553056
+Female,Day,Weekday,13+,Young passenger present,223,49,21.973094170403588
+Male,Night,Weekday,Under 13,No young passenger,2463,527,21.39667072675599
+Female,Day,Weekend,Under 13,Young passenger present,195,40,20.51282051282051
+Female,Day,Weekday,Under 13,Young passenger present,424,86,20.28301886792453
+Male,Day,Weekday,13+,No young passenger,2395,480,20.041753653444676
+Male,Day,Weekend,13+,No young passenger,1053,208,19.753086419753085
+Female,Night,Weekend,13+,No young passenger,250,49,19.6
+Female,Night,Weekday,13+,No young passenger,594,114,19.19191919191919
+Female,Night,Weekday,Under 13,No young passenger,1345,257,19.107806691449813
+Male,Day,Weekday,Under 13,No young passenger,4234,809,19.107227208313653
+Male,Day,Weekend,Under 13,No young passenger,1769,321,18.14584511023177
+Female,Night,Weekend,Under 13,No young passenger,626,110,17.57188498402556
+Female,Day,Weekday,13+,No young passenger,1277,217,16.992952231793264
+Female,Day,Weekend,Under 13,No young passenger,1327,222,16.729464958553127
+Female,Day,Weekday,Under 13,No young passenger,3241,527,16.260413452638076
+Female,Day,Weekend,13+,No young passenger,524,80,15.267175572519085
